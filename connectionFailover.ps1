@@ -1,7 +1,7 @@
 
 Param(
     [Parameter( Mandatory = $false)]
-    $subscription="5050b769-83ab-4f02-a6cb-0c0af0afa991",
+    $subscription="5050b769-83ab-4f02-a6cb-somethingsomething",
     #$rgNames= ("NonProd-A-East","NonProd-B-East","Prod-A-East","Prod-B-East","Service-A-East","Service-B-East","Staging-A-East","Staging-B-East","NonProd-A-East2","NonProd-B-East2","Prod-A-East2","Prod-B-East2","Service-A-East2","Service-B-East2","Staging-A-East2","Staging-B-East2"),
     $rgNames= ("Prod-A-East"),
     $connection1="DC1-connection",
