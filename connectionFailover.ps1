@@ -12,7 +12,7 @@ Param(
     $localgw1="localgw-datacenter1",
     $localgw2="localgw-datacenter2",
     
-    $sharedkey="AAAAB3NzaC1yc2EAAAABJQAAAQEArFalQqW",
+    $sharedkey="AAAAB3NzaC1yc2EAAAABJQAAASomeStuff",
 
     #set the acitve connection
     $active="DC1-connection"
